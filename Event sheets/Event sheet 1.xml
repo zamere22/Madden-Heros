@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="4310487718538666">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="4703947734886899" type="Keyboard">
+                    <param id="0" name="Key">90 (Z)</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Spawn another object" sid="834370422903535" type="superman">
+                    <param id="0" name="Object">Sprite</param>
+                    <param id="1" name="Layer">0</param>
+                    <param id="2" name="Image point">0</param>
+                </action>
+                <action id="-8" name="Set angle" sid="700672813053624" type="Sprite">
+                    <param id="0" name="Angle">0</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
