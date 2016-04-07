@@ -61,7 +61,7 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>556</x>
+	                <x>556</x>
                         <y>283</y>
                         <z>0</z>
                         <width>147</width>
