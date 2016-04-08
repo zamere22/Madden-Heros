@@ -155,6 +155,38 @@
                 </animation>
             </animation-folder>
         </object-type>
+        <object-type name="Sprite7" sid="5850200893158648">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="3729220883924013" speed="5">
+                    <frame duration="1" hotspotX="0.502326" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th.jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite8" sid="1330710608715628">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="5380071053197934" speed="5">
+                    <frame duration="1" hotspotX="0.501779" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th (1).jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite9" sid="9260213274987765">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="1444288267110125" speed="5">
+                    <frame duration="1" hotspotX="0.502538" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th (2).jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite10" sid="8662824065807925">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="3507717416441334" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
