@@ -187,6 +187,76 @@
                 </animation>
             </animation-folder>
         </object-type>
+        <object-type name="Sprite11" sid="555671453043046">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="2539749146539255" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th (3).jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite12" sid="4851429262508846">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7375151465862059" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.500425" original-source="C:\Users\Maker\Downloads\Wolverine-X-Men-cartoon-02.jpg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite13" sid="7455863000135881">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9528408000081519" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\468px-Doomsday_732x960.png">
+                        <collision-poly>
+                            <point x="0.194444" y="0.148208" />
+                            <point x="0.5" y="0.0586319" />
+                            <point x="0.807692" y="0.14658" />
+                            <point x="0.912393" y="0.5" />
+                            <point x="0.739316" y="0.801303" />
+                            <point x="0.5" y="0.739414" />
+                            <point x="0.113248" y="0.913681" />
+                            <point x="0.0576923" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite14" sid="8881700618215477">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7918253555160658" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\deadpool_by_illustrationoverdose-d6lzlzd.png">
+                        <collision-poly>
+                            <point x="0.321289" y="0.210897" />
+                            <point x="0.5" y="0.0378205" />
+                            <point x="0.680664" y="0.209615" />
+                            <point x="0.856445" y="0.5" />
+                            <point x="0.679688" y="0.789744" />
+                            <point x="0.5" y="0.535256" />
+                            <point x="0.333008" y="0.78141" />
+                            <point x="0.144531" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite15" sid="6240645010409408">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9930696242355938" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th (5).jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite16" sid="2251143663839211">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="2543993950524568" speed="5">
+                    <frame duration="1" hotspotX="0.501779" hotspotY="0.5" original-source="C:\Users\Maker\Downloads\th (6).jpeg" />
+                </animation>
+            </animation-folder>
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
